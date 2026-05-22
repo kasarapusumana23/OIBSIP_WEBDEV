@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #d8b4fe, #cdb4ff, #b8f2e6);
+}
+
+/* MAIN CONTAINER */
+
+.container{
+    background: white;
+    padding: 40px;
+    width: 400px;
+    border-radius: 25px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    animation: fadeIn 1s ease;
+}
+
+/* HEADING */
+
+h1{
+    color: #7f5af0;
+    margin-bottom: 25px;
+}
+
+/* INPUT */
+
+input{
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 20px;
+    border: 2px solid #cdb4ff;
+    border-radius: 12px;
+    font-size: 16px;
+    outline: none;
+}
+
+input:focus{
+    border-color: #70e1c8;
+}
+
+/* SELECT */
+
+select{
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 20px;
+    border: 2px solid #cdb4ff;
+    border-radius: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+}
+
+/* BUTTON */
+
+button{
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #7f5af0, #70e1c8);
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover{
+    transform: scale(1.03);
+}
+
+/* RESULT */
+
+#result{
+    margin-top: 25px;
+    font-size: 22px;
+    font-weight: 600;
+    color: #7f5af0;
+}
+
+/* ANIMATION */
+
+@keyframes fadeIn{
+
+    from{
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
