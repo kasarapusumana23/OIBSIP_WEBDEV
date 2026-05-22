@@ -9,15 +9,16 @@ function convertTemperature(){
     // VALIDATION
 
     if(temperature === ""){
+
         result.innerHTML = "Please enter a temperature!";
         return;
     }
 
     temperature = Number(temperature);
 
-    // CONVERSION
-
     let convertedTemperature;
+
+    // CELSIUS TO FAHRENHEIT
 
     if(unit === "celsius"){
 
@@ -26,8 +27,9 @@ function convertTemperature(){
         result.innerHTML =
             temperature + "°C = " +
             convertedTemperature.toFixed(2) + "°F";
-
     }
+
+    // FAHRENHEIT TO CELSIUS
 
     else if(unit === "fahrenheit"){
 
@@ -36,8 +38,9 @@ function convertTemperature(){
         result.innerHTML =
             temperature + "°F = " +
             convertedTemperature.toFixed(2) + "°C";
-
     }
+
+    // CELSIUS TO KELVIN
 
     else if(unit === "kelvin"){
 
@@ -46,6 +49,5 @@ function convertTemperature(){
         result.innerHTML =
             temperature + "°C = " +
             convertedTemperature.toFixed(2) + "K";
-
     }
 }
