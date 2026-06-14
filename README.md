@@ -1,7 +1,7 @@
 🌟 OASIS INFOBYTE WEB DEVELOPMENT INTERNSHIP
 Welcome to my internship project repository! This repository contains all the tasks completed as part of the Oasis Infobyte Web Development Internship Program.
 
-🚀 Level 1 Tasks
+🚀 LEVEL 1 TASKS
 🌐 Task 1 – Personal Landing Page
 📌 Description
 A responsive personal landing page created using HTML and CSS.
@@ -20,7 +20,7 @@ A temperature converter application that converts values between Celsius, Fahren
 🚀 Live Demo
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL1TASK3/
 
-🚀 Level 2 Tasks
+🚀 LEVEL 2 TASKS
 🧮 Task 1 – Calculator Web Application
 📌 Description
 A responsive calculator built using HTML, CSS, and JavaScript that performs basic arithmetic operations.
@@ -45,7 +45,7 @@ A simple login authentication system built using HTML, CSS, JavaScript, and Loca
 🚀 Live Demo
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK4/
 
-🛠️ Technologies Used
+🛠️ TECHNOLOGIES USED
 
 HTML5
 CSS3
@@ -53,7 +53,7 @@ JavaScript
 Local Storage API
 
 
-📁 Repository Structure
+📁 REPOSITORY STRUCTURE
 OIBSIP_WEBDEV/
 │
 ├── 🚀 LEVEL 1
@@ -70,7 +70,7 @@ OIBSIP_WEBDEV/
 └── 📖 README.md
 
 
-📊 Internship Progress
+📊 INTERNSHIP PROGRESS
 
 
 
@@ -94,7 +94,7 @@ Total
 
 
 
-🎯 Key Learning Outcomes
+🎯 KEY LEARNING OUTCOMES
 
 Responsive Web Design
 HTML5 & CSS3 Development
@@ -107,13 +107,13 @@ Project Documentation
 Git & GitHub Workflow
 
 
-👩‍💻 Developed By
+👩‍💻 DEVELOPED BY
 Sumana Kasarapu
 Web Development Intern
 Oasis Infobyte
 
-⭐ Acknowledgement
+⭐ ACKNOWLEDGEMENT
 I would like to thank Oasis Infobyte for providing this internship opportunity and helping me enhance my web development skills through practical, hands-on projects.
 
-🌟 Thank You for Visiting!
+🌟 THANK YOU FOR VISITING!
 Feel free to explore the projects and provide your valuable feedback.
