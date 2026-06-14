@@ -1,0 +1,166 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:#000;
+    color:white;
+    line-height:1.8;
+}
+
+/* HERO */
+
+.hero{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:50px;
+}
+
+.hero-content{
+    width:80%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.hero-text{
+    width:50%;
+}
+
+.hero-text h1{
+    font-size:5rem;
+    color:#d4af37;
+    margin-bottom:15px;
+}
+
+.hero-text h3{
+    font-size:1.8rem;
+    margin-bottom:20px;
+}
+
+.hero-text p{
+    font-size:1.6rem;
+    font-style:italic;
+    color:#e5e5e5;
+}
+
+.hero-image img{
+    width:380px;
+    border-radius:15px;
+    border:3px solid #d4af37;
+
+    box-shadow:
+    0 0 30px rgba(212,175,55,0.5);
+}
+
+/* BIOGRAPHY */
+
+.biography{
+    max-width:900px;
+    margin:auto;
+    padding:80px 20px;
+}
+
+.biography h2{
+    text-align:center;
+    color:#d4af37;
+    font-size:3rem;
+    margin-bottom:40px;
+}
+
+.biography p{
+    margin-bottom:25px;
+    font-size:1.2rem;
+    color:#f1f1f1;
+}
+
+/* ACHIEVEMENTS */
+
+.achievements{
+    padding:80px 20px;
+    background:#0f0f0f;
+}
+
+.achievements h2{
+    text-align:center;
+    color:#d4af37;
+    font-size:3rem;
+    margin-bottom:40px;
+}
+
+.achievements ul{
+    max-width:800px;
+    margin:auto;
+}
+
+.achievements li{
+    font-size:1.2rem;
+    margin-bottom:20px;
+}
+
+/* QUOTE */
+
+.quote-section{
+    padding:80px 20px;
+    text-align:center;
+}
+
+.quote-section h2{
+    color:#d4af37;
+    font-size:3rem;
+    margin-bottom:30px;
+}
+
+blockquote{
+    max-width:800px;
+    margin:auto;
+
+    font-size:1.7rem;
+    font-style:italic;
+
+    border-left:4px solid #d4af37;
+
+    padding:20px;
+}
+
+/* FOOTER */
+
+footer{
+    text-align:center;
+    padding:30px;
+    background:#0a0a0a;
+    border-top:1px solid #d4af37;
+}
+
+footer p{
+    color:#ddd;
+}
+
+/* MOBILE */
+
+@media(max-width:768px){
+
+    .hero-content{
+        flex-direction:column;
+        text-align:center;
+        gap:40px;
+    }
+
+    .hero-text{
+        width:100%;
+    }
+
+    .hero-text h1{
+        font-size:3rem;
+    }
+
+    .hero-image img{
+        width:280px;
+    }
+
+}

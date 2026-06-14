@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Bloom - To Do App</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1 class="main-title">Daily Bloom</h1>
+
+        <p class="subtitle">
+            Stay organized. Stay productive. 🚀
+        </p>
+
+        <div class="input-section">
+
+            <input
+                type="text"
+                id="taskInput"
+                placeholder="Enter a new task...">
+
+            <button onclick="addTask()">
+                ✨ Add Task
+            </button>
+
+        </div>
+
+        <div class="task-container">
+
+            <!-- Pending Tasks -->
+
+            <div class="task-box">
+
+                <h2>📌 Pending Tasks</h2>
+
+                <ul id="pendingList"></ul>
+
+            </div>
+
+            <!-- Completed Tasks -->
+
+            <div class="task-box">
+
+                <h2>✅ Completed Tasks</h2>
+
+                <ul id="completedList"></ul>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
