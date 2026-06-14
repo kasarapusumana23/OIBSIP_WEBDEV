@@ -2,6 +2,7 @@
 Welcome to my internship project repository! This repository contains all the tasks completed as part of the Oasis Infobyte Web Development Internship Program.
 
 🚀 LEVEL 1 TASKS
+
 🌐 Task 1 – Personal Landing Page
 📌 Description
 A responsive personal landing page created using HTML and CSS.
@@ -21,6 +22,7 @@ A temperature converter application that converts values between Celsius, Fahren
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL1TASK3/
 
 🚀 LEVEL 2 TASKS
+
 🧮 Task 1 – Calculator Web Application
 📌 Description
 A responsive calculator built using HTML, CSS, and JavaScript that performs basic arithmetic operations.
@@ -117,3 +119,4 @@ I would like to thank Oasis Infobyte for providing this internship opportunity a
 
 🌟 THANK YOU FOR VISITING!
 Feel free to explore the projects and provide your valuable feedback.
+
