@@ -47,12 +47,64 @@ A simple login authentication system built using HTML, CSS, JavaScript, and Loca
 🚀 Live Demo
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK4/
 
+🚀 LEVEL 3 TASKS
+
+🍕 Task 1 – PizzaCraft (Pizza Delivery Web Application)
+📌 Description
+PizzaCraft is a full-stack pizza delivery web application built using the MERN Stack. Users can register, log in, browse pizzas, add items to the cart, manage orders, and enjoy a seamless food ordering experience.
+✨ Features
+
+User Registration & Login
+JWT Authentication
+Browse Pizza Menu
+Add to Cart Functionality
+Checkout System
+User Dashboard
+Responsive User Interface
+MongoDB Database Integration
+
+🛠️ Technologies Used
+Frontend
+
+React.js
+Vite
+React Router DOM
+CSS3
+
+Backend
+
+Node.js
+Express.js
+
+Database
+
+MongoDB Atlas
+
+📂 Project Structure
+LEVEL3/
+└── Pizza Delivery App/
+└── PizzaCraft/
+├── client/
+├── server/
+├── .gitignore
+└── README.md
+🚀 Live Demo
+Frontend Deployment Available via Vercel
+📁 GitHub Source
+LEVEL3/Pizza Delivery App/PizzaCraft
+
 🛠️ TECHNOLOGIES USED
 
 HTML5
 CSS3
 JavaScript
+React.js
+Node.js
+Express.js
+MongoDB Atlas
+React Router DOM
 Local Storage API
+Git & GitHub
 
 
 📁 REPOSITORY STRUCTURE
@@ -69,8 +121,10 @@ OIBSIP_WEBDEV/
 │   ├── 🌸 LEVEL2TASK3
 │   └── 🔐 LEVEL2TASK4
 │
+├── 🚀 LEVEL 3
+│   └── 🍕 Pizza Delivery App
+│
 └── 📖 README.md
-
 
 📊 INTERNSHIP PROGRESS
 
@@ -90,8 +144,12 @@ Level 2
 4/4 ✅
 
 
+Level 3
+1/1 ✅
+
+
 Total
-7 Projects Completed ✅
+8 Projects Completed ✅
 
 
 
@@ -107,6 +165,13 @@ Authentication Systems
 UI/UX Design Principles
 Project Documentation
 Git & GitHub Workflow
+React.js Development
+MERN Stack Development
+REST API Integration
+MongoDB Database Management
+Authentication using JWT
+Full Stack Application Development
+Deployment using Vercel
 
 
 👩‍💻 DEVELOPED BY
@@ -119,4 +184,3 @@ I would like to thank Oasis Infobyte for providing this internship opportunity a
 
 🌟 THANK YOU FOR VISITING!
 Feel free to explore the projects and provide your valuable feedback.
-
