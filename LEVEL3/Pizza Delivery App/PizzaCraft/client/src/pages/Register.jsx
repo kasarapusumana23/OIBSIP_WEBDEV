@@ -29,7 +29,7 @@ function Register() {
 
     try {
       await axios.post(
-        "http://localhost:5000/api/users/register",
+        "https://oibsip-webdev.onrender.com/api/users/register",
         {
           name: formData.name,
           email: formData.email,
@@ -43,13 +43,16 @@ function Register() {
 
       window.location.href = "/login";
     } catch (error) {
-      alert(
-        error.response?.data?.message ||
-          "Registration Failed"
-      );
+  console.log("REGISTER ERROR:", error);
+  console.log("RESPONSE:", error.response?.data);
 
-      console.log(error);
-    }
+  alert(
+    error.response?.data?.message ||
+    error.message ||
+    JSON.stringify(error.response?.data) ||
+    "Registration Failed"
+  );
+}
   };
 
   return (
