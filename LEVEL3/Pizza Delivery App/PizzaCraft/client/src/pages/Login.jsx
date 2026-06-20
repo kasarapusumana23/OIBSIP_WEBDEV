@@ -19,7 +19,7 @@ function Login() {
 
     try {
       const res = await axios.post(
-        "http://localhost:5000/api/users/login",
+        "https://oibsip-webdev.onrender.com/api/users/login",
         {
           email: formData.email,
           password: formData.password,
@@ -35,13 +35,16 @@ function Login() {
 
       window.location.href = "/dashboard";
     } catch (error) {
-      alert(
-        error.response?.data?.message ||
-          "Login Failed"
-      );
+  console.log("LOGIN ERROR:", error);
+  console.log("RESPONSE:", error.response?.data);
 
-      console.log(error);
-    }
+  alert(
+    error.response?.data?.message ||
+    error.message ||
+    JSON.stringify(error.response?.data) ||
+    "Login Failed"
+  );
+}
   };
 
   return (
