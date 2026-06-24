@@ -194,11 +194,14 @@ Deployment using Vercel
 
 👩‍💻 DEVELOPED BY
 Sumana Kasarapu
+
 Web Development Intern
 Oasis Infobyte
 
 ⭐ ACKNOWLEDGEMENT
+
 I would like to thank Oasis Infobyte for providing this internship opportunity and helping me enhance my web development skills through practical, hands-on projects.
 
 🌟 THANK YOU FOR VISITING!
+
 Feel free to explore the projects and provide your valuable feedback.
