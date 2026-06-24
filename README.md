@@ -11,6 +11,7 @@ A responsive personal landing page created using HTML and CSS.
 
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL1TASK1/
 
+
 💼 Task 2 – Personal Portfolio Website
 📌 Description
 A professional portfolio website showcasing personal information, skills, projects, achievements, and contact details.
@@ -19,6 +20,7 @@ A professional portfolio website showcasing personal information, skills, projec
 
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL1TASK2/
 
+
 🌡️ Task 3 – Temperature Converter Website
 📌 Description
 A temperature converter application that converts values between Celsius, Fahrenheit, and Kelvin using JavaScript.
@@ -26,6 +28,7 @@ A temperature converter application that converts values between Celsius, Fahren
 🚀 Live Demo
 
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL1TASK3/
+
 
 🚀 LEVEL 2 TASKS
 
@@ -37,6 +40,7 @@ A responsive calculator built using HTML, CSS, and JavaScript that performs basi
 
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK1/
 
+
 🌟 Task 2 – Tribute Page
 📌 Description
 A tribute page dedicated to Sundar Pichai, highlighting his biography, achievements, leadership journey, and inspirational quotes.
@@ -44,6 +48,7 @@ A tribute page dedicated to Sundar Pichai, highlighting his biography, achieveme
 🚀 Live Demo
 
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK2/
+
 
 🌸 Task 3 – Daily Bloom (To-Do Web Application)
 📌 Description
@@ -53,6 +58,7 @@ A modern task management application that allows users to add, edit, delete, and
 
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK3/
 
+
 🔐 Task 4 – Lumora (Login Authentication System)
 📌 Description
 A simple login authentication system built using HTML, CSS, JavaScript, and Local Storage.
@@ -60,6 +66,7 @@ A simple login authentication system built using HTML, CSS, JavaScript, and Loca
 🚀 Live Demo
 
 https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK4/
+
 
 🚀 LEVEL 3 TASKS
 
